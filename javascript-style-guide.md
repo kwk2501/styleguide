@@ -57,7 +57,8 @@
 ### ii. 세미콜론 (Semicolons)
     <a name="formatting--semicolon"></a><a name="1.1"></a>
   - [1.ii.1.](#formatting--semicolon) **세미콜론을 사용하세요 (Use semicolon)**: 모든 문장에는 세미콜론을 붙여주세요.
-      ```javascript
+    
+    ```javascript
     // bad
     (function () {
       const name = 'RecordFarm'
