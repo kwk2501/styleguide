@@ -1,4 +1,4 @@
-# RecordFarm Javascript Style Guide{
+# RecordFarm Javascript Style Guide (){
 
 
 
