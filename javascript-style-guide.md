@@ -1,7 +1,7 @@
 # RecordFarm Javascript 스타일 가이드
 
 ## 목차
-  1. [서식 (formatting)](#서식 (formatting)
+  1. [서식 (formatting)](#서식 (formatting))
     2. [공백 (Whitespace)](#공백 (Whitespace))
     2. [세미콜론 (semicolon)](##공백 (Whitespace))
   1. [References](#references)
