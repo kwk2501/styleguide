@@ -1,7 +1,7 @@
 # RecordFarm Javascript 스타일 가이드
 
 ## 목차
-  1. [서식](#formatting)
+  1. [서식 (formatting)](#formatting)
     2. [hh](#sagf)
   1. [References](#references)
   1. [Objects](#objects)
@@ -10,10 +10,10 @@
   1. [License](#license)
 
 
-## formatting
+## 서식 (formatting)
 
-  <a name="types--primitives"></a><a name="1.1"></a>
-  - [1.1](#types--primitives) **Primitives**: When you access a primitive type you work directly on its value.
+  <a name="formatting--2칸 들여쓰기"></a><a name="1.1"></a>
+  - [1.1](#formatting--2칸 들여쓰기) **formatting--2칸 들여쓰기**: When you access a primitive type you work directly on its value.
 
     + `string`
     + `number`
