@@ -2,7 +2,8 @@
 
 ## 목차
   1. [서식 (formatting)](#formatting)
-    2. [공백 (Whitespace)](#whitespace)
+    1.1. [공백 (Whitespace)](#whitespace)
+    1.2. [세미콜론 (semicolon)](#semicolon)
   1. [References](#references)
   1. [Objects](#objects)
   1. [Arrays](#arrays)
