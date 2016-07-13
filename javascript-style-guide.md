@@ -1,7 +1,7 @@
 # RecordFarm Javascript 스타일 가이드
 
 ## 목차
-  1. [Types](#types)
+  1. [](#types)
     2. [hh](#sagf)
   1. [References](#references)
   1. [Objects](#objects)
@@ -38,3 +38,46 @@
   1. [Chat With Us About JavaScript](#chat-with-us-about-javascript)
   1. [Contributors](#contributors)
   1. [License](#license)
+
+
+## Types
+
+  <a name="types--primitives"></a><a name="1.1"></a>
+  - [1.1](#types--primitives) **Primitives**: When you access a primitive type you work directly on its value.
+
+    + `string`
+    + `number`
+    + `boolean`
+    + `null`
+    + `undefined`
+
+    ```javascript
+    const foo = 1;
+    let bar = foo;
+
+    bar = 9;
+
+    console.log(foo, bar); // => 1, 9
+    ```
+
+  <a name="types--complex"></a><a name="1.2"></a>
+  - [1.2](#types--complex)  **Complex**: When you access a complex type you work on a reference to its value.
+
+    + `object`
+    + `array`
+    + `function`
+
+    ```javascript
+    const foo = [1, 2];
+    const bar = foo;
+
+    bar[0] = 9;
+
+    console.log(foo[0], bar[0]); // => 9, 9
+    ```
+
+**[⬆ back to top](#table-of-contents)**
+
+
+
+## References
