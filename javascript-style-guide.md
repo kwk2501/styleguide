@@ -38,7 +38,8 @@
 
   <a name="Whitespace--brace"></a><a name="1.2"></a>
   - [1.1.2.](#Whitespace--brace) **중괄호 (brace)**: 중괄호 앞에는 1칸 띄어쓰기 해주십시오
-        ```javascript
+  
+    ```javascript
     // bad
     function test(){
       const name = 'RecordFarm';
