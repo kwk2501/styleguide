@@ -15,7 +15,7 @@
 ### 공백 (Whitespace)
 
   <a name="Whitespace--2칸 들여쓰기"></a><a name="1.1"></a>
-  - [1.1](#Whitespace--2칸 들여쓰기) **2칸 들여쓰기 (2 spaces for indentation)**: 2칸 들여쓰기를 하며, 탭에는 스페이스 2개를 설정해 주십시오.
+  - [1.1.1](#Whitespace--2칸 들여쓰기) **2칸 들여쓰기 (2 spaces for indentation)**: 2칸 들여쓰기를 하며, 탭에는 스페이스 2개를 설정해 주십시오.
         ```javascript
     // bad
     (function () {
@@ -34,8 +34,8 @@
     ```
 
 
-  <a name="Whitespace--brace"></a><a name="1.1"></a>
-  - [1.1](#Whitespace--brace) **중괄호 (brace)**: 중괄호 앞에는 1칸 띄어쓰기 해주십시오
+  <a name="Whitespace--brace"></a><a name="1.2"></a>
+  - [1.1.2](#Whitespace--brace) **중괄호 (brace)**: 중괄호 앞에는 1칸 띄어쓰기 해주십시오
         ```javascript
     // bad
     function test(){
